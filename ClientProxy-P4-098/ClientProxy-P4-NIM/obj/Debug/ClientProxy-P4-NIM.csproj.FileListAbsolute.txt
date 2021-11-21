@@ -1,0 +1,14 @@
+D:\Smester 5\PAT\ClientProxy-P4-NIM\ClientProxy-P4-NIM\bin\Debug\ClientProxy-P4-NIM.exe.config
+D:\Smester 5\PAT\ClientProxy-P4-NIM\ClientProxy-P4-NIM\bin\Debug\ClientProxy-P4-NIM.exe
+D:\Smester 5\PAT\ClientProxy-P4-NIM\ClientProxy-P4-NIM\bin\Debug\ClientProxy-P4-NIM.pdb
+D:\Smester 5\PAT\ClientProxy-P4-NIM\ClientProxy-P4-NIM\obj\Debug\ClientProxy-P4-NIM.csproj.AssemblyReference.cache
+D:\Smester 5\PAT\ClientProxy-P4-NIM\ClientProxy-P4-NIM\obj\Debug\ClientProxy-P4-NIM.csproj.CoreCompileInputs.cache
+D:\Smester 5\PAT\ClientProxy-P4-NIM\ClientProxy-P4-NIM\obj\Debug\ClientProxy-P4-NIM.exe
+D:\Smester 5\PAT\ClientProxy-P4-NIM\ClientProxy-P4-NIM\obj\Debug\ClientProxy-P4-NIM.pdb
+D:\Smester 5\PAT\ClientProxy-P4-098\ClientProxy-P4-NIM\bin\Debug\ClientProxy-P4-NIM.exe.config
+D:\Smester 5\PAT\ClientProxy-P4-098\ClientProxy-P4-NIM\bin\Debug\ClientProxy-P4-NIM.exe
+D:\Smester 5\PAT\ClientProxy-P4-098\ClientProxy-P4-NIM\bin\Debug\ClientProxy-P4-NIM.pdb
+D:\Smester 5\PAT\ClientProxy-P4-098\ClientProxy-P4-NIM\obj\Debug\ClientProxy-P4-NIM.csproj.AssemblyReference.cache
+D:\Smester 5\PAT\ClientProxy-P4-098\ClientProxy-P4-NIM\obj\Debug\ClientProxy-P4-NIM.csproj.CoreCompileInputs.cache
+D:\Smester 5\PAT\ClientProxy-P4-098\ClientProxy-P4-NIM\obj\Debug\ClientProxy-P4-NIM.exe
+D:\Smester 5\PAT\ClientProxy-P4-098\ClientProxy-P4-NIM\obj\Debug\ClientProxy-P4-NIM.pdb

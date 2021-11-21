@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientProxy-P4-NIM", "ClientProxy-P4-NIM\ClientProxy-P4-NIM.csproj", "{6BFD753B-13A0-4F55-AFF2-93FDC8A9D836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BFD753B-13A0-4F55-AFF2-93FDC8A9D836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BFD753B-13A0-4F55-AFF2-93FDC8A9D836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BFD753B-13A0-4F55-AFF2-93FDC8A9D836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BFD753B-13A0-4F55-AFF2-93FDC8A9D836}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14AD56C4-C4AB-4CB9-AFA3-9231299EF2BB}
+	EndGlobalSection
+EndGlobal
